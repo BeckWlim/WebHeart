@@ -1,0 +1,43 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.3.3",
+    "element-ui": "^2.15.9",
+    "gsap": "^3.11.3",
+    "jquery": "^3.6.0",
+    "path": "^0.12.7",
+    "three": "^0.124.0",
+    "three-css2drender": "^1.0.0",
+    "three-js-csg": "^72.0.0",
+    "three-obj-mtl-loader": "^1.0.3",
+    "three-orbit-controls": "^82.1.0",
+    "three-orbitcontrols": "^2.110.3",
+    "tthreebsp": "^1.0.9",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.0",
+    "vue-drag-resize": "^1.5.4",
+    "vue-router": "3.0.1",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
