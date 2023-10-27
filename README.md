@@ -1,4 +1,4 @@
-A web sorfter based on vue+three.js, 3D loving
+A web sorftware based on vue+three.js, 3D loving
 # heart
 前端文件编译
 ```
